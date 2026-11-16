@@ -21,7 +21,7 @@ Made with Iranian users and local connectivity in mind, with Persian and English
 
 | Windows | Android | Browser |
 | --- | --- | --- |
-| [Windows installer](https://github.com/hooman009dev/ChatBox/releases/download/v1.1.3/ChatBox-Setup-1.1.3-x64.exe) | [Android APK](https://github.com/hooman009dev/ChatBox/releases/download/v1.1.3/ChatBox-1.1.3.apk) | [Open ChatBox](https://chatbox.hooman009.ir) |
+| [Windows installer](https://github.com/hooman009dev/ChatBox/releases/download/v1.1.3/ChatBox-Setup-1.1.3-build118-fixed-x64.exe) | [Android APK](https://github.com/hooman009dev/ChatBox/releases/download/v1.1.3/ChatBox-1.1.3-build118.apk) | [Open ChatBox](https://chatbox.hooman009.ir) |
 | Amethyst setup for Windows x64 | The official Android package | Start from your browser |
 
 The [release page](https://github.com/hooman009dev/ChatBox/releases/latest) includes version details and file checksums. Android may ask you to approve installation through its system installer.
