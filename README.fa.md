@@ -42,7 +42,7 @@
 یه نگاه نزدیک‌تر به چت‌باکس روی دسکتاپ و موبایل:
 
 - [گفت‌وگو روی دسکتاپ](assets/chat-desktop.png)
-- [ظاهر و کیفیت](assets/appearance.png)
+- [ظاهر و کیفیت](assets/chatbox-appearance.png)
 - [گفت‌وگو روی صفحهٔ کوچیک](assets/chat-android-layout.png)
 
 ## تغییرات نسخهٔ جدید
