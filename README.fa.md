@@ -1,6 +1,6 @@
 <div dir="rtl">
 
-<p align="center"><img src="assets/chatbox-hero.png" alt="چت‌باکس و آمتیست" width="100%"></p>
+<p align="center"><img src="assets/chatbox-hero.jpg" alt="چت‌باکس و آمتیست" width="100%"></p>
 <h1 align="center">ChatBox | چت‌باکس</h1>
 <p align="center"><b>گفت‌وگوهای خودت، با رنگ‌و‌حال خودت</b></p>
 <p align="center"><a href="https://chatbox.hooman009.ir">ورود به چت‌باکس</a> · <a href="https://github.com/hooman009dev/ChatBox/releases/latest">دانلود اپ‌ها</a> · <a href="README.md">English</a> · <a href="https://hooman009.ir">سایت سازنده</a></p>
