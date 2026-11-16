@@ -27,8 +27,8 @@
 
 ## دانلود نسخهٔ مناسب دستگاهت
 
-- [دانلود نصب‌کنندهٔ ویندوز x64](https://github.com/hooman009dev/ChatBox/releases/download/v1.1.3/ChatBox-Setup-1.1.3-x64.exe)
-- [دانلود APK اندروید](https://github.com/hooman009dev/ChatBox/releases/download/v1.1.3/ChatBox-1.1.3.apk)
+- [دانلود نصب‌کنندهٔ ویندوز x64](https://github.com/hooman009dev/ChatBox/releases/download/v1.1.3/ChatBox-Setup-1.1.3-build118-fixed-x64.exe)
+- [دانلود APK اندروید](https://github.com/hooman009dev/ChatBox/releases/download/v1.1.3/ChatBox-1.1.3-build118.apk)
 - [استفاده از نسخهٔ وب](https://chatbox.hooman009.ir)
 
 شمارهٔ نسخه، تغییرات و شناسهٔ سلامت فایل‌ها توی صفحهٔ انتشار هستن. برای نصب APK ممکنه اندروید تأیید نصب رو ازت بخواد.
@@ -41,9 +41,9 @@
 
 یه نگاه نزدیک‌تر به چت‌باکس روی دسکتاپ و موبایل:
 
-- [گفت‌وگو روی دسکتاپ](assets/chat-desktop.png)
-- [ظاهر و کیفیت](assets/chatbox-appearance.png)
-- [گفت‌وگو روی صفحهٔ کوچیک](assets/chat-android-layout.png)
+- [گفت‌وگو روی دسکتاپ](assets/chat-desktop-real.png)
+- [ظاهر و کیفیت](assets/appearance-real.png)
+- [گفت‌وگو روی صفحهٔ کوچیک](assets/chat-android-layout-real.png)
 
 ## تغییرات نسخهٔ جدید
 
