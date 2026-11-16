@@ -1,4 +1,4 @@
-<p align="center"><img src="assets/chatbox-hero.png" alt="ChatBox and the Amethyst character" width="100%"></p>
+<p align="center"><img src="assets/chatbox-hero.jpg" alt="ChatBox and the Amethyst character" width="100%"></p>
 <h1 align="center">ChatBox</h1>
 <p align="center"><b>Your conversations. Your colors.</b><br>گفت‌وگوهای خودت، با رنگ‌و‌حال خودت</p>
 <p align="center"><a href="https://chatbox.hooman009.ir">Open ChatBox</a> · <a href="https://github.com/hooman009dev/ChatBox/releases/latest">Download apps</a> · <a href="README.fa.md">فارسی</a> · <a href="https://hooman009.ir">Meet the creator</a></p>
