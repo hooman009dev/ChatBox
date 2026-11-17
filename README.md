@@ -52,15 +52,15 @@ Explore ChatBox on desktop and mobile.
 
 
 ### Desktop conversation
-<img src="assets/chat-desktop-real.png" alt="Actual ChatBox desktop interface with demonstration messages" width="100%">
+<img src="assets/chat-desktop.png" alt="Actual ChatBox desktop interface with demonstration messages" width="100%">
 
 
 ### Personalize your space
-<img src="assets/appearance-real.png" alt="Actual ChatBox appearance settings" width="100%">
+<img src="assets/chatbox-appearance.png" alt="Actual ChatBox appearance settings" width="100%">
 
 
 ### Small-screen conversation
-<img src="assets/chat-android-layout-real.png" alt="Actual responsive ChatBox conversation layout" width="300">
+<img src="assets/chat-android-layout.png" alt="Actual responsive ChatBox conversation layout" width="300">
 
 
 </details>
