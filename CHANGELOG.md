@@ -1,35 +1,31 @@
-# ChatBox 1.1.3
+# ChatBox 1.1.3 · Build 121
 
-## Everyday improvements | تغییرات عمومی
+## Improvements
 
-- Emoji artwork is stored and restored locally, including when a fresh document opens offline.
-- Avatar caching handles concurrent loads; personal wallpaper images and their selection are retained for offline use.
-- Chat position is restored after refresh or switching conversations. Previously read history is excluded from the new-message counter.
-- Delivered ticks remain delivered after a recipient goes offline.
-- Mobile logo sizing, emoji-panel resizing and Android navigation insets have been improved.
-- Update downloads have been improved for current and earlier app versions.
+- Improvements to sign-in, terms and session management.
+- Improvements to message selection, scrolling and new-message counts.
+- Improvements to delivery and read receipts.
+- Improvements to emoji, images and local caching.
+- Improvements to downloads and media browsing.
+- Improvements to themes, mobile layouts and Android navigation.
+- Improvements to connection settings and app updates.
 
-<div dir="rtl">
+## Premium — Absolute Cinema
 
-- تصاویر ایموجی برای استفادهٔ آفلاین ذخیره و دوباره خوانده می‌شن.
-- ذخیرهٔ آواتارهای هم‌زمان و والپیپر شخصی اصلاح شده.
-- جای گفت‌وگو بعد از رفرش و عوض‌کردن مخاطب حفظ می‌شه؛ پیام‌های قبلاً دیده‌شده دوباره پیام جدید حساب نمی‌شن.
-- دو تیک تحویل، بعد از آفلاین‌شدن مخاطب باقی می‌مونه.
-- اندازهٔ نشان موبایل، تغییر اندازهٔ پنجرهٔ ایموجی و فاصلهٔ نوار پایین اندروید بهتر شده.
-- دانلود آپدیت برای نسخه‌های جدید و قدیمی بهتر شده.
+- Playback and seeking improvements in Absolute Cinema.
+- Improvements to playback guidance and controls.
 
-</div>
+## تغییرات عمومی
 
-## Premium — Absolute Cinema | پرمیوم — سینمای مطلق
+- بهبود ورود، قوانین و مدیریت نشست‌ها.
+- رفع باگ‌های انتخاب پیام، اسکرول و شمارش پیام‌های جدید.
+- بهبود عملکرد تیک تحویل و سین پیام‌ها.
+- بهبود ایموجی‌ها، تصاویر و حافظهٔ پنهان.
+- رفع باگ‌های دانلود و نمایش رسانه‌ها.
+- بهبود تم‌ها، رابط موبایل و دکمهٔ برگشت اندروید.
+- بهبود تنظیمات اتصال و به‌روزرسانی برنامه.
 
-- Improved device-local playback and byte-range seeking for supported direct video sources.
-- Amethyst playback guidance uses a single character.
-- Clearer messages for unavailable or unsupported sources.
+## پرمیوم — سینمای مطلق
 
-<div dir="rtl">
-
-- پخش مستقیم روی دستگاه و پرش زمانی برای منابع پشتیبانی‌شده بهبود پیدا کرده.
-- راهنمای شروع پخش آمتیست با یک کاراکتر نمایش داده می‌شه.
-- پیام منابع ناسازگار و غیرقابل‌دسترسی روشن‌تر شده.
-
-</div>
+- رفع باگ‌های پخش و جابه‌جایی زمانی در سینمای مطلق.
+- بهبود راهنما و کنترل‌های پخش.
