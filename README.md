@@ -28,65 +28,8 @@ Made with Iranian users and local connectivity in mind, with Persian and English
 
 | Windows | Android | Browser |
 | --- | --- | --- |
-| [Windows installer](https://github.com/hooman009dev/ChatBox/releases/download/v1.1.3/ChatBox-Setup-1.1.3-build123-x64.exe) | [Android APK](https://github.com/hooman009dev/ChatBox/releases/download/v1.1.3/ChatBox-1.1.3-build123.apk) | [Open ChatBox](https://chatbox.hooman009.ir) |
+| [Windows installer](https://github.com/hooman009dev/ChatBox/releases/download/v1.1.3/ChatBox-Setup-1.1.3-build126-x64.exe) | [Android APK](https://github.com/hooman009dev/ChatBox/releases/download/v1.1.3/ChatBox-1.1.3-build126.apk) | [Open ChatBox](https://chatbox.hooman009.ir) |
 | Amethyst setup for Windows x64 | The official Android package | Start from your browser |
 
 
 The [release page](https://github.com/hooman009dev/ChatBox/releases/latest) includes version details and file checksums. Android may ask you to approve installation through its system installer.
-
-
-## ChatBox Premium ⭐
-
-
-Call a friend, turn on your camera, share your screen or settle in for **Absolute Cinema** together. Available with ChatBox Premium.
-
-
-## Take a closer look
-
-
-Explore ChatBox on desktop and mobile.
-
-
-<details>
-<summary><b>View actual interface screenshots</b></summary>
-
-
-### Desktop conversation
-<img src="assets/chat-desktop.png" alt="Actual ChatBox desktop interface with demonstration messages" width="100%">
-
-
-### Personalize your space
-<img src="assets/chatbox-appearance.png" alt="Actual ChatBox appearance settings" width="100%">
-
-
-### Small-screen conversation
-<img src="assets/chat-android-layout.png" alt="Actual responsive ChatBox conversation layout" width="300">
-
-
-</details>
-
-
-## What’s new
-
-
-Read the [1.1.3 changelog](CHANGELOG.md), with everyday and Premium changes listed separately.
-
-
-## Made by hooman009
-
-
-- **ChatBox:** [chatbox.hooman009.ir](https://chatbox.hooman009.ir)
-- **Creator & web designer:** [hooman009.ir](https://hooman009.ir)
-- **GitHub:** [@hooman009dev](https://github.com/hooman009dev)
-- **Help and feedback:** [Support guide](SUPPORT.md)
-
-
-## License
-
-
-© 2026 hooman009 · [License](LICENSE)
-
-
----
-<p align="center">ChatBox · Made with care by <b>hooman009</b> · <a href="README.fa.md">معرفی فارسی</a></p>
-
