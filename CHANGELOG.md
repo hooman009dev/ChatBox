@@ -1,4 +1,4 @@
-# ChatBox 1.1.3 · Build 122
+# ChatBox 1.1.3 · Build 123
 
 ## What’s improved
 
