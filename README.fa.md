@@ -27,8 +27,8 @@
 
 ## دانلود نسخهٔ مناسب دستگاهت
 
-- [دانلود نصب‌کنندهٔ ویندوز x64](https://github.com/hooman009dev/ChatBox/releases/download/v1.1.3/ChatBox-Setup-1.1.3-build123-x64.exe)
-- [دانلود APK اندروید](https://github.com/hooman009dev/ChatBox/releases/download/v1.1.3/ChatBox-1.1.3-build123.apk)
+- [دانلود نصب‌کنندهٔ ویندوز x64](https://github.com/hooman009dev/ChatBox/releases/download/v1.1.3/ChatBox-Setup-1.1.3-build126-x64.exe)
+- [دانلود APK اندروید](https://github.com/hooman009dev/ChatBox/releases/download/v1.1.3/ChatBox-1.1.3-build126.apk)
 - [استفاده از نسخهٔ وب](https://chatbox.hooman009.ir)
 
 شمارهٔ نسخه، تغییرات و شناسهٔ سلامت فایل‌ها توی صفحهٔ انتشار هستن. برای نصب APK ممکنه اندروید تأیید نصب رو ازت بخواد.
@@ -50,14 +50,3 @@
 [چنج‌لاگ ۱.۱.۳](CHANGELOG.md) شامل تغییرات عادی و پرمیوم، جدا از هم نوشته شده.
 
 ## ساختهٔ hooman009
-
-**چت‌باکس:** [chatbox.hooman009.ir](https://chatbox.hooman009.ir)  
-**سایت سازنده:** [hooman009.ir](https://hooman009.ir)  
-**گیت‌هاب:** [hooman009dev](https://github.com/hooman009dev)  
-**راهنما و بازخورد:** [پشتیبانی](SUPPORT.md)
-
-## مجوز استفاده
-
-© ۲۰۲۶ **hooman009** · [مجوز استفاده](LICENSE)
-
-</div>
